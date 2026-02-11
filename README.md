@@ -67,10 +67,30 @@ A coluna Order ID foi considerada a coluna Fato pelo fato de ter valores únicos
 
 ## Passo 5: Critérios de priorização
 Critério 1: Dados disponíveis
+
 Critério 2: Insights adicionais
 
 # Insights da Análise
+Análise de Cohort, de janeiro de 2014 a abril de 2017
+![Cohort análise](img/cohort-analise.png)
 
+Proporções de segmentos de clientes e as seguintes recomendações
+![RFM proporções](img/analise-rfm.png)
+
+Segmentação dos clientes e as seguintes recomendações
+![RFM análise](img/rfm-analise.png)
+
+10 lojas com melhor desempenho de vendas
+![Lojas melhor desempenho](img/lojas-melhor-desempenho.png)
+
+10 produtos mais vendidos
+![Produtos mais vendidos](img/produtos-mais-vendidos.png)
+
+10 produtos menos vendidos
+![Produtos menos vendidos](img/produtos-menos-vendidos.png)
+
+Proporção de vendas por região
+![Vendas por região](img/vendas-regiao.png)
 
 # Resultado
 
