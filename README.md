@@ -71,6 +71,25 @@ Critério 1: Dados disponíveis
 Critério 2: Insights adicionais
 
 # Insights da Análise
+Retenção é maior em clientes mais novos, em especial nos quais aderiram em 2016, enquanto dos demais anos tendem a média ou até serem inferiores a isto, como no caso dos clientes de 2014.
+
+Porém, a retenção dos clientes aumentou nos períodos mais recentes, especialmente no 2º semestre de 2015 e em 2016 como um todo.
+
+As possíveis explicações são:
+•	Melhoria na qualidade dos produtos;
+•	Aprimoramento no atendimento ao cliente, seja durante a venda ou na pós;
+•	Eventos sazonais, como o Thanksgiving e o Natal, por exemplo.
+
+Os cohorts com maior taxa de retenção de clientes no período de seis meses são:
+1.	Março e abril de 2016: 31%;
+2.	2.	Junho de 2015 e de 2016: 30%;
+3.	Maio de 2016, outubro de 2016 e março de 2017: 29%.
+   
+Já os cohorts com maior taxa de retenção no período de doze meses são:
+1.	Outubro de 2016: 38%;
+2.	Março de 2016: 27%;
+3.	Maio de 2016: 24%.
+
 Análise de Cohort, de janeiro de 2014 a abril de 2017
 ![Cohort análise](img/cohort-analise.png)
 
@@ -79,6 +98,8 @@ Proporções de segmentos de clientes e as seguintes recomendações
 
 Segmentação dos clientes e as seguintes recomendações
 ![RFM análise](img/rfm-analise.png)
+
+As dez lojas com maior receita estão localizadas, em sua maioria, nas regiões oeste (west) e leste (east), sendo 32% e 30%, respectivamente. Isto mostra a forte correlação entre as lojas com maior receita e o poderio econômico de tais regiões.
 
 10 lojas com melhor desempenho de vendas
 ![Lojas melhor desempenho](img/lojas-melhor-desempenho.png)
@@ -93,6 +114,12 @@ Proporção de vendas por região
 ![Vendas por região](img/vendas-regiao.png)
 
 # Resultado
+As principais medidas a serem tomadas para cada segmento de clientes são:
+-	Medidas para atrair novas compras e ofertas produtos tickets baixos para clientes perdidos;
+-	Medidas para atrair novas compras e ofertas produtos tickets médios para clientes hibernando e quase dormentes;
+-	Medidas para atrair novas compras e ofertas produtos tickets altos para clientes em risco e que precisam de atenção;
+-	Oferta produtos tickets baixos para clientes promissores;
+-	Oferta produtos tickets médios para clientes fiéis em potencial;
+-	Oferta produtos tickets altos para clientes fiéis.
 
-
-# Visualização da Análise Completa
+E para melhorar o desempenho das lojas, recomenda-se tirar os produtos menos vendidos do catálogo de vendas, além de fechar as lojas com fraco desempenho.
