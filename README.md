@@ -82,7 +82,7 @@ As possíveis explicações são:
 
 Os cohorts com maior taxa de retenção de clientes no período de seis meses são:
 1.	Março e abril de 2016: 31%;
-2.	2.	Junho de 2015 e de 2016: 30%;
+2.	Junho de 2015 e de 2016: 30%;
 3.	Maio de 2016, outubro de 2016 e março de 2017: 29%.
    
 Já os cohorts com maior taxa de retenção no período de doze meses são:
